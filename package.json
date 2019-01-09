@@ -1,0 +1,12 @@
+{
+  "name": "yarn-workspace-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/allenylzhou/yarn-workspace-sandbox.git",
+  "author": "Allen <allenylzhou@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
